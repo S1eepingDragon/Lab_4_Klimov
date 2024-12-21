@@ -1,1 +1,3 @@
 Text in new branch file
+
+This is a commment from the New branch
