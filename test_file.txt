@@ -1,1 +1,2 @@
 Test text for GIT
+Now we will try to change the file
